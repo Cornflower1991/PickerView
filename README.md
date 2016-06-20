@@ -1,4 +1,3 @@
-PickerView (2.x系列)
 
  修改 Android-PickerView
 主要修改了每次弹出时可以设置时候显示默认值，还是之前设置的值
